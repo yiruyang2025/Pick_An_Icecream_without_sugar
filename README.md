@@ -35,6 +35,21 @@ draw an ice-cream (*non-rigid) here (though actually don't know what for)
 
 ## Full-Stack Development Workflow (Python + React + Node.js)
 
+
+
+```
+User clicks button (React) →
+React sends API request →
+Backend (Node.js or Python) processes logic →
+Backend queries database →
+Backend returns JSON response →
+React updates UI
+```
+
+
+
+<br>
+
 ```
 +------------------+        +--------------------+        +-------------------+
 |   FRONTEND       |        |   BACKEND          |        |   DATABASE        |
