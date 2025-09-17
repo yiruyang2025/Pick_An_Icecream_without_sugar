@@ -2,7 +2,7 @@
 
 <br>
 
-draw an ice-cream (*non-rigid) here
+draw an ice-cream (*non-rigid) here (though actually don't know what for)
 
 
 <br>
