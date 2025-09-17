@@ -66,7 +66,17 @@ React updates UI
    - runs dev/build scripts
 ```
 
+<br>
 
+## (Timeline & Roles)
+
+| Component    | Full Name                           | Year Introduced              | Creator(s) / Organization                                 | Motivation (Why Created)                                                                                                              | Role in Workflow (What It Does)                                                                                                                |
+| ------------ | ----------------------------------- | ---------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Python**   | Python Programming Language         | 1991                         | Guido van Rossum (Netherlands, CWI)                       | Existing languages like C/Java were too complex; wanted a **simple, readable, general-purpose language**.                             | Backend option: APIs, business logic, AI/ML, data science, web frameworks (Flask, Django, FastAPI).                                            |
+| **Database** | Database Management System (DBMS)   | 1960s (concept), 1970s (SQL) | IBM (IMS, then Edgar F. Codd for relational model at IBM) | Applications needed to **store data persistently and retrieve it reliably**.                                                          | Persistence layer: stores structured/unstructured data (users, posts, transactions). Relational (PostgreSQL, MySQL) or NoSQL (MongoDB, Redis). |
+| **Node.js**  | Node JavaScript Runtime Environment | 2009                         | Ryan Dahl                                                 | Traditional servers (Apache, PHP) were inefficient for **real-time, concurrent apps**. Introduced **event-driven, non-blocking I/O**. | Backend option: Serves APIs, handles requests, scalable for real-time apps (chat, streaming).                                                  |
+| **npm**      | Node Package Manager                | 2010                         | Isaac Z. Schlueter                                        | JavaScript needed a **centralized dependency manager** for sharing/reusing libraries.                                                 | Package manager: installs JavaScript libraries, runs scripts (`npm start`, `npm build`).                                                       |
+| **React**    | React.js (React JavaScript Library) | 2013                         | Facebook (Meta)                                           | Building dynamic UIs with plain JavaScript was hard; React introduced **component-based architecture + virtual DOM**.                 | Frontend framework: builds modular, fast user interfaces. Works with npm for dependencies.                                                     |
 
 
 
